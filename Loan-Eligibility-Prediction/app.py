@@ -13,7 +13,7 @@ import google.generativeai as genai
 import os
 
 # Configure Gemini AI
-GEMINI_API_KEY = "AIzaSyBHE0zZVzECz1-SntYva4c6bLVSwy21-KM"
+GEMINI_API_KEY = "Use_your_api_key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Set page configuration
