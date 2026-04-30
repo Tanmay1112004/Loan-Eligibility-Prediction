@@ -36,6 +36,8 @@
 
 ![demo](https://github.com/Tanmay1112004/Loan-Eligibility-Prediction/blob/main/Loan-Eligibility-Prediction/screenshots/Screenshot%202025-10-06%20202707.png)
 
+![demo](https://github.com/Tanmay1112004/Loan-Eligibility-Prediction/blob/main/Loan-Eligibility-Prediction/screenshots/Screenshot%202025-10-06%20202726.png)
+
 
 ---
 
