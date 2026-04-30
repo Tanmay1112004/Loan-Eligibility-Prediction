@@ -30,7 +30,9 @@
 
 ## Demo Images
 
-![demo]()
+![demo](https://github.com/Tanmay1112004/Loan-Eligibility-Prediction/blob/main/Loan-Eligibility-Prediction/screenshots/Screenshot%202025-10-06%20202617.png)
+
+![demo](https://github.com/Tanmay1112004/Loan-Eligibility-Prediction/blob/main/Loan-Eligibility-Prediction/screenshots/Screenshot%202025-10-06%20202638.png)
 
 
 ---
