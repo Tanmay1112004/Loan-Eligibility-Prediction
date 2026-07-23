@@ -108,7 +108,7 @@ graph TB
 
 ```bash
 # Clone repository
-git clone https://github.com/Tanmay1112004/LoanEligibilityAI.git
+git clone https://github.com//LoanEligibilityAI.git
 cd LoanEligibilityAI
 
 # Install dependencies
