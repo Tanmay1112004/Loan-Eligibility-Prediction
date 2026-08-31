@@ -240,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ **If you find this project impressive, please give it a star!** ⭐
 
-**"Transforming financial decision-making with AI - one prediction at a time."**
+
 
 </div>
 
